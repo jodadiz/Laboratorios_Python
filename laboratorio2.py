@@ -26,4 +26,3 @@ while(True):
 
     else:
         print('ERROR: Debe digitar nombres de 3 o 4 componentes.')
-        
